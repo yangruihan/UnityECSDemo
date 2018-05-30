@@ -154,7 +154,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_SerializedData:
     Prefab: {fileID: 1683957865157060, guid: 782d28f178c23404fbde322a3fa04228, type: 2}
-    Count: 10000
+    Count: 20000
     MaxX: 200
     MaxY: 200
     MaxZ: 200

@@ -154,7 +154,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Prefab: {fileID: 1706852529281332, guid: 98638baa841224b60abd2ce7ba770384, type: 2}
-  Count: 10000
+  Count: 20000
   MaxX: 200
   MaxY: 200
   MaxZ: 200

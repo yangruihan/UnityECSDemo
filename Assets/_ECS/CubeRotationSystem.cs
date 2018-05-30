@@ -7,7 +7,7 @@ using Unity.Transforms;
 using Unity.Mathematics;
 using Unity.Jobs;
 
-#if true
+#if false
 
 public class CubeRotationSystem : ComponentSystem
 {
